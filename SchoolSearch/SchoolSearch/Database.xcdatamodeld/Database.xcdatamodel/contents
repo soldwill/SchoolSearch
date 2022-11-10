@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21279" systemVersion="21G217" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DBSchool" representedClassName="DBSchool" syncable="YES" codeGenerationType="class">
+        <attribute name="dbn" optional="YES" attributeType="String"/>
+        <attribute name="school_name" optional="YES" attributeType="String"/>
+        <attribute name="search_term_00" optional="YES" attributeType="String"/>
+        <attribute name="search_term_01" optional="YES" attributeType="String"/>
+        <attribute name="search_term_02" optional="YES" attributeType="String"/>
+        <attribute name="search_term_03" optional="YES" attributeType="String"/>
+        <attribute name="search_term_04" optional="YES" attributeType="String"/>
+        <attribute name="search_term_05" optional="YES" attributeType="String"/>
+        <attribute name="search_term_06" optional="YES" attributeType="String"/>
+        <attribute name="search_term_07" optional="YES" attributeType="String"/>
+        <attribute name="search_term_08" optional="YES" attributeType="String"/>
+        <attribute name="search_term_09" optional="YES" attributeType="String"/>
+        <attribute name="search_term_10" optional="YES" attributeType="String"/>
+        <attribute name="search_term_11" optional="YES" attributeType="String"/>
+        <attribute name="search_term_12" optional="YES" attributeType="String"/>
+        <attribute name="search_term_13" optional="YES" attributeType="String"/>
+        <attribute name="search_term_14" optional="YES" attributeType="String"/>
+        <attribute name="search_term_15" optional="YES" attributeType="String"/>
+    </entity>
+</model>
